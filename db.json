@@ -1,0 +1,357 @@
+{
+  "analyses": [
+    {
+      "id": "c50c",
+      "hex": "#5C636D",
+      "rgb": "rgb(92, 99, 109)",
+      "category": "Deep",
+      "recommendations": [
+        "#FFFFFF",
+        "#FFFF00",
+        "#00FFFF",
+        "#FF00FF"
+      ],
+      "avoid": [
+        "#000080",
+        "#8B0000",
+        "#000000"
+      ],
+      "timestamp": "2025-11-24T17:21:48.027Z"
+    },
+    {
+      "id": "d195",
+      "hex": "#727885",
+      "rgb": "rgb(114, 120, 133)",
+      "category": "Tan",
+      "recommendations": [
+        "#FF4500",
+        "#FF8C00",
+        "#8B4513",
+        "#556B2F"
+      ],
+      "avoid": [
+        "#000000",
+        "#A9A9A9"
+      ],
+      "timestamp": "2025-11-24T17:22:25.529Z"
+    },
+    {
+      "id": "a653",
+      "hex": "#6B737B",
+      "rgb": "rgb(107, 115, 123)",
+      "category": "Tan",
+      "recommendations": [
+        "#8B4513",
+        "#E2725B",
+        "#FF8C00",
+        "#556B2F",
+        "#FFD700",
+        "#C0C0C0",
+        "#DC143C",
+        "#4B0082",
+        "#008080",
+        "#F4A460",
+        "#9932CC"
+      ],
+      "avoid": [
+        "#000000",
+        "#A9A9A9",
+        "#0000FF",
+        "#FF69B4"
+      ],
+      "timestamp": "2025-11-24T17:28:58.078Z"
+    },
+    {
+      "id": "f03b",
+      "hex": "#767372",
+      "rgb": "rgb(118, 115, 114)",
+      "category": "Tan",
+      "recommendations": [
+        "#8B4513",
+        "#E2725B",
+        "#FF8C00",
+        "#556B2F",
+        "#FFD700",
+        "#C0C0C0",
+        "#DC143C",
+        "#4B0082",
+        "#008080",
+        "#F4A460",
+        "#9932CC"
+      ],
+      "avoid": [
+        "#000000",
+        "#A9A9A9",
+        "#0000FF",
+        "#FF69B4"
+      ],
+      "timestamp": "2025-11-27T04:42:08.968Z"
+    },
+    {
+      "id": "0055",
+      "hex": "#6B635F",
+      "rgb": "rgb(107, 99, 95)",
+      "category": "Tan",
+      "recommendations": [
+        "#8B4513",
+        "#E2725B",
+        "#FF8C00",
+        "#556B2F",
+        "#FFD700",
+        "#C0C0C0",
+        "#DC143C",
+        "#4B0082",
+        "#008080",
+        "#F4A460",
+        "#9932CC"
+      ],
+      "avoid": [
+        "#000000",
+        "#A9A9A9",
+        "#0000FF",
+        "#FF69B4"
+      ],
+      "timestamp": "2025-11-27T04:42:32.682Z"
+    },
+    {
+      "id": "404e",
+      "hex": "#494644",
+      "rgb": "rgb(73, 70, 68)",
+      "category": "Deep",
+      "recommendations": [
+        "#0047AB",
+        "#FFFFFF",
+        "#E0115F",
+        "#FFD700",
+        "#000000",
+        "#800080",
+        "#FFFF00",
+        "#00FF00",
+        "#FF00FF",
+        "#40E0D0",
+        "#FF4500"
+      ],
+      "avoid": [
+        "#000080",
+        "#3E2723",
+        "#556B2F",
+        "#808080"
+      ],
+      "timestamp": "2025-11-27T04:43:34.066Z"
+    },
+    {
+      "id": "bab1",
+      "hex": "#776658",
+      "rgb": "rgb(119, 102, 88)",
+      "category": "Tan",
+      "recommendations": [
+        {
+          "name": "Saddle Brown",
+          "hex": "#8B4513"
+        },
+        {
+          "name": "Terracotta",
+          "hex": "#E2725B"
+        },
+        {
+          "name": "Burnt Orange",
+          "hex": "#CC5500"
+        },
+        {
+          "name": "Dark Olive",
+          "hex": "#556B2F"
+        },
+        {
+          "name": "Antique Gold",
+          "hex": "#CFB53B"
+        },
+        {
+          "name": "Warm Grey",
+          "hex": "#808080"
+        },
+        {
+          "name": "Burgundy",
+          "hex": "#800020"
+        },
+        {
+          "name": "Navy",
+          "hex": "#000080"
+        },
+        {
+          "name": "Teal",
+          "hex": "#008080"
+        },
+        {
+          "name": "Camel",
+          "hex": "#C19A6B"
+        },
+        {
+          "name": "Plum",
+          "hex": "#8E4585"
+        }
+      ],
+      "avoid": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Cool Greys",
+          "hex": "#A9A9A9"
+        },
+        {
+          "name": "Electric Blue",
+          "hex": "#0000FF"
+        },
+        {
+          "name": "Hot Pink",
+          "hex": "#FF69B4"
+        }
+      ],
+      "outfits": [
+        {
+          "top": {
+            "name": "Terracotta",
+            "hex": "#E2725B"
+          },
+          "bottom": {
+            "name": "Saddle Brown",
+            "hex": "#8B4513"
+          }
+        },
+        {
+          "top": {
+            "name": "Gold",
+            "hex": "#FFD700"
+          },
+          "bottom": {
+            "name": "Dark Olive",
+            "hex": "#556B2F"
+          }
+        },
+        {
+          "top": {
+            "name": "Crimson",
+            "hex": "#DC143C"
+          },
+          "bottom": {
+            "name": "Warm Grey",
+            "hex": "#C0C0C0"
+          }
+        }
+      ],
+      "timestamp": "2025-11-30T14:17:05.418Z"
+    },
+    {
+      "id": "bd02",
+      "hex": "#373430",
+      "rgb": "rgb(55, 52, 48)",
+      "category": "Deep",
+      "recommendations": [
+        {
+          "name": "Cobalt Blue",
+          "hex": "#0047AB"
+        },
+        {
+          "name": "Off White",
+          "hex": "#F8F8FF"
+        },
+        {
+          "name": "Ruby Red",
+          "hex": "#9B111E"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FFD700"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Deep Purple",
+          "hex": "#36013F"
+        },
+        {
+          "name": "Mustard",
+          "hex": "#E1AD01"
+        },
+        {
+          "name": "Forest Green",
+          "hex": "#228B22"
+        },
+        {
+          "name": "Plum",
+          "hex": "#8E4585"
+        },
+        {
+          "name": "Teal",
+          "hex": "#008080"
+        },
+        {
+          "name": "Burnt Orange",
+          "hex": "#CC5500"
+        }
+      ],
+      "avoid": [
+        {
+          "name": "Navy",
+          "hex": "#000080"
+        },
+        {
+          "name": "Dark Brown",
+          "hex": "#3E2723"
+        },
+        {
+          "name": "Muted Earth Tones",
+          "hex": "#556B2F"
+        },
+        {
+          "name": "Grey",
+          "hex": "#808080"
+        }
+      ],
+      "outfits": [
+        {
+          "top": {
+            "name": "Bright White",
+            "hex": "#FFFFFF"
+          },
+          "bottom": {
+            "name": "Cobalt Blue",
+            "hex": "#0047AB"
+          }
+        },
+        {
+          "top": {
+            "name": "Ruby Red",
+            "hex": "#E0115F"
+          },
+          "bottom": {
+            "name": "Jet Black",
+            "hex": "#000000"
+          }
+        },
+        {
+          "top": {
+            "name": "Gold",
+            "hex": "#FFD700"
+          },
+          "bottom": {
+            "name": "Purple",
+            "hex": "#800080"
+          }
+        }
+      ],
+      "timestamp": "2025-11-30T14:32:41.874Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "1764515393333",
+      "email": "test@123",
+      "password": "1234",
+      "name": "sirish"
+    }
+  ]
+}
